@@ -85,12 +85,3 @@ header nav a.active::after {
     border-bottom-left-radius: 20px;
     box-shadow: -5px 5px 0 5px var(--crl);
 }
-
-/* Responsivo */
-@media only screen and (max-width: 900px) {
-    /* { width:600px; } */
-}
-
-@media only screen and (max-width: 700px) {
-    /* { width:400px; } */
-}
